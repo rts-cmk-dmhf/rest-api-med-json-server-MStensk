@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="script.js"></script>
+</head>
+<body>
+    <h1>All movies!</h1>
+    <div>
+        <button class="add-new-movie">Add new (+)</button>
+    </div>
+    <form id="addMovieForm" style="display: none;">
+        <input type="text" id="titleInput" placeholder="Title" required>
+        <input type="number" id="yearInput" placeholder="Year" required>
+        <input type="text" id="descriptionInput" placeholder="Description" required>
+        <button type="submit">Add Movie</button>
+    </form>
+    <div>
+    <div class="results-container"></div>
+    <form id="editMovieForm" style="display: none;">
+        <input type="hidden" id="editMovieId">
+        <input type="text" id="editTitleInput" placeholder="Title" required>
+        <input type="number" id="editYearInput" placeholder="Year" required>
+        <input type="text" id="editDescriptionInput" placeholder="Description" required>
+        <button type="submit">Save Changes</button>
+    </form>
+    </div>
+</body>
+</html>
