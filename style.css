@@ -17,6 +17,7 @@ body {
     justify-content: center;
     gap: 1rem;
     overflow-y: scroll;
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(252,252,252,1) 51%, rgba(0,212,255,1) 100%);
 }
 
 .results-container {
@@ -24,14 +25,17 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    border: 1px solid #000;
-    padding: 1rem;
+    border: 2px solid #000;
+    padding: 1.4rem;
     margin-bottom: 2rem;
+    width: 500px;
+    background: rgb(0,212,255);
 }
+
 h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size:1.4rem;
-    padding-bottom: 0.2rem;
+    font-size:1.6rem;
+    padding-bottom: 0.6rem;
 }
 p{
     padding-bottom: 0.2rem;
@@ -51,6 +55,7 @@ p{
     padding: 0.2rem 0.5rem;
     cursor: pointer;
     color: white;
+    margin-top: 1rem;
 }
 .add-new-movie{
     background: green;
@@ -60,4 +65,20 @@ p{
     cursor: pointer;
     color: white;
 
+}
+.movie-desc{
+    color: gray;
+    font-style: italic;
+    padding-bottom: 1rem;
+}
+.movie-info{
+    display: flex;
+    flex-direction: column;
+    padding-left: 1em;
+}
+.movie-container{
+    display: flex;
+}
+img{
+    border-radius: 5px;
 }

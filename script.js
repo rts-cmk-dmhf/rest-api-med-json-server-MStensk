@@ -27,8 +27,13 @@ const renderMovies = movies => {
         return `
             <div class="results-container__movie" data-id="${movie.id}">
                 <h3>${movie.title}</h3>
+                <div class="movie-container">
+                <img width="150" src="${movie.img}"></img>
+                <div class="movie-info">
                 <p>${movie.year}</p>
-                <p>${movie.description}</p>
+                <p class="movie-desc">${movie.description}</p>
+                </div>
+                </div>
                 <button class="delete-movie">delete</button>
                 <button class="edit-movie">edit</button>
             </div>`

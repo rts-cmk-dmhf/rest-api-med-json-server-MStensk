@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "A Haunting in Venice",
+      "img": "https://lumiere-a.akamaihd.net/v1/images/p_ahauntinginvenice_1890_v2_4ae663c2.jpeg?region=0%2C0%2C540%2C810",
       "year": 2023,
       "score": 6.8,
       "description": "En mørkere og mere uhyggelig spin på Branaghs Poirot"
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "title": "Barbie",
+      "img": "https://www.nfbio.dk/sites/nfbio.dk/files/media-images/2023-08/Barbie_Shoulder_AW_70x100_DK_72DPI.jpg",
       "year": 2023,
       "score": 7.1,
       "description": "En visuelt blændende komedie, hvis meta-humor er smart komplementeret af subversiv historiefortælling"
@@ -17,6 +19,7 @@
     {
       "title": "Elemental",
       "year": 2023,
+      "img": "https://i0.wp.com/pixarpost.com/wp-content/uploads/2023/06/Elemental-Fandango-Character-Poster.jpg?resize=380%2C563&ssl=1",
       "description": "Elementær er måske ikke så tilfredsstillende som de største Pixar-billeder, men det er stadig en solid historie fortalt med blændende visuel flair",
       "id": 3
     },
@@ -24,12 +27,14 @@
       "id": 4,
       "title": "Talk to me",
       "year": 2023,
+      "img": "https://myhotposters.com/cdn/shop/products/mL6796_1024x1024.jpg?v=1689785301",
       "score": 7.2,
       "description": "Med en fængslende historie og imponerende praktiske effekter, spinner Talk to Me en forfærdeligt uhyggelig horror-garn bygget på klassiske fundamenter"
     },
     {
       "title": "Expend4bles",
       "year": 2023,
+      "img": "https://m.media-amazon.com/images/M/MV5BMDFhYjc2NmUtNDBlOC00NDE5LTk5YWYtYmM4ZmMxNTUxMGNjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
       "description": "Expend4bles er en sjov, actionfyldt og over-the-top actionfilm, der er en værdig fortsættelse af franchisen",
       "id": 5
     },
@@ -37,19 +42,21 @@
       "id": 6,
       "title": "Love at first sight",
       "year": 2023,
+      "img": "https://m.media-amazon.com/images/M/MV5BYmE0MWJhNDgtMTIwNy00YTE0LWIwMTQtY2QzZDRkZjI3OTNhXkEyXkFqcGdeQXVyMTQ4MDUxMTk1._V1_FMjpg_UX1000_.jpg",
       "score": 6.9,
       "description": "En sjov og charmerende romantisk komedie, der er lige så sød som den er smart - og en af ​​de sjældne moderne komedier, der er fyldt med så meget hjerte og varme som latter"
     },
     {
-      "id": 7,
       "title": "Jawan",
+      "img" : "https://m.media-amazon.com/images/M/MV5BOWI5NmU3NTUtOTZiMS00YzA1LThlYTktNDJjYTU5NDFiMDUxXkEyXkFqcGdeQXVyMTUzNjEwNjM2._V1_FMjpg_UX1000_.jpg",
       "year": 2023,
-      "score": 7.6,
-      "description": "Jawan er en Indisk actionfilm instrueret af BVS Ravi og produceret af Krishna. Filmen har Sai Dharam Tej og Mehreen Pirzada i hovedrollerne."
+      "description": "Jawan er en Indisk actionfilm instrueret af BVS Ravi og produceret af Krishna. Filmen har Sai Dharam Tej og Mehreen Pirzada i hovedrollerne.",
+      "id": 7
     },
     {
       "id": 8,
       "title": "Oppenheimer",
+      "img": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
       "year": 2023,
       "score": 8.6,
       "description": "Et andet mesterværk fra Nolan, der er en visuelt forbløffende og tankevækkende film, der er lige så spændende som den er tankevækkende"
@@ -57,12 +64,14 @@
     {
       "id": 9,
       "title": "The Batman",
+      "img": "https://static.posters.cz/image/1300/plakater/the-batman-2022-i122125.jpg",
       "year": 2023,
       "score": 8.1,
       "description": "The Batman er en af ​​de bedste superheltefilm nogensinde lavet, og en af ​​de bedste film i 2022"
     },
     {
       "title": "Year of the Dinos",
+      "img": "https://static.displate.com/280x392/displate/2021-08-02/4c83101119cc87c8a42d147fc6c45b70_20a42fca8884161cd31d2135726f6ab3.jpg",
       "year": 1928,
       "description": "Man what a year it has been for the dinosaurs man bro",
       "id": 10
